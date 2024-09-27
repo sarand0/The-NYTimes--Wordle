@@ -1,1 +1,1 @@
-# The-NYTimes--Wordle
+# The-NYTimes-Wordle
